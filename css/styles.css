@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+.bottom-container{
+background-color: #28df99;
+color:#eeeeee;
+font-size: 10px;
+margin: 0;
+padding: 30px 0 20px
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  border: solid;
+  font-family: Arial;
+  color: #eeeeee;
+  font-size: 20px;
+  background: #0099ff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcec;
+  text-decoration: none;
+    color: #383e56;
+}
+.counseling{
+  float: right;
+  padding-left: 30px;
+  position: relative;
+  top: 50px;
+}
+.contact-me{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.copyright{
+  position: relative;
+  top: 10px;
+  font-size: 0.6rem;
+}
+.clear{
+  clear: both;
+}
+.footer-link{
+  color: #eeeeee;
+  font-size: 0.7rem;
+}
+a{
+  padding: 50px;
+  text-decoration: none;
+  color: #383e56;
+  font-family: 'Quicksand', sans-serif;
+}
+h1 {
+  color: black;
+  font-family: 'Pacifico', cursive;
+  font-size: 90px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  bottom: 50px;
+}
+h2 {
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  margin: 0;
+}
+h3{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5rem;
+  display: inline;
+  padding: 10px;
+  border: medium #383e56 solid
+}
+.hello{
+    margin: 0 auto 0;
+}
+hr{
+  border: dotted;
+  width: 30rem;
+  border-width: 1rem 0 0 0;
+  border-color: black;
+}
+
+.middle-container{
+  background-color: #a5ecd7;
+  padding: 50px 0 30px;
+}
+p {
+  line-height: 2;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.profile{
+  text-align: center;
+  background-color: #eedad1;
+  padding-top: 30px;
+}
+.profile-desc{
+  margin: 0 auto 0;
+  font-size: 1.5rem;
+  width: 50%;
+  position: relative;
+  bottom: 50px;
+  background-color: #e8ffc1;
+  border-radius: 25px;
+  padding: 0 20px 0;
+  color:#393b44;
+  font-family: 'Arimo', sans-serif;
+}
+.profile-picture{
+  position: relative;
+  bottom: 75px;
+}
+.skills{
+    margin: 0 auto 0;
+}
+.skill-row{
+  margin: 50px auto 50px;
+  width: 50%;
+  text-align: left;
+  font-size: 1.5rem;
+  color: black;
+}
+.top-container{
+  background-color: #32e0c4;
+  height: 32rem;
+  position: relative;
+  padding-top: 150px;
+}
+
+.website{
+  width: 25%;
+  height: 5%;
+  float: left;
+  padding-right: 30px;
+  position: relative;
+  top: 40px;
+}
